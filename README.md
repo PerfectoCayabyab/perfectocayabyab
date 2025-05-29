@@ -1,6 +1,10 @@
 # 💫 About Me:
 A dedicated IT professional from the Philippines. I specialize in programming and design, and have extensive experience in the development of mobile and website applications, including full front and back-end design. I’m also skilled in creating brand identities, graphics, and illustrations. I’m eager to collaborate with you!
 
+## 🚀 Featured Project:
+### 🎨 FREE AI Image Generator SaaS  
+A web-based AI-powered image generation platform that allows users to create stunning visuals from text prompts. Built with modern web technologies and a scalable backend.
+🔗 [Visit the Website](https://rooki-ai-image-generator.vercel.app/)  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/perfectoiicayabyab) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/perfecto-ii-cayabyab-20052b246) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:perfectocayabyab@gmail.com) 
